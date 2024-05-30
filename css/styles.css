@@ -1,0 +1,45 @@
+body {
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+}
+
+.main-container {
+  display: flex;
+  width: 950px;
+  margin: 0 auto;
+}
+
+.bread-crumb {
+  color: #565959;
+}
+
+.title {
+  font-weight: lighter;
+}
+
+.main-img {
+  box-shadow: 0px 2px 5px lightgray;
+  width: 340px;
+}
+
+.content-container {
+  margin-left: 35px; 
+}
+
+.author {
+  margin-bottom: 5px;
+}
+
+.star-rating {
+  width: 110px;
+}
+
+h3 {
+  margin-top: 5px;
+}
+
+a {
+  color: #007185;
+}
+
